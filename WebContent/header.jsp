@@ -22,8 +22,8 @@
 	<!--Company Header Starting  -->
 	<div class="container-fluid text-center"
 		style="margin-top: 45px; background-color: #33cc33; color: white; padding: 5px;">
-		<h2>Ellison Electronics</h2>
-		<h6>We specialize in Electronics</h6>
+		<h2>Kisan Samriddhi</h2>
+		<h6>We specialize in Agriculture</h6>
 		<form class="form-inline" action="index.jsp" method="get">
 			<div class="input-group">
 				<input type="text" class="form-control" size="50" name="search"
@@ -66,7 +66,7 @@
 						data-toggle="dropdown" href="#">Category <span class="caret"></span>
 					</a>
 						<ul class="dropdown-menu">
-							<li><a href="index.jsp?type=mobile">Mobiles</a></li>
+							<li><a href="index.jsp?type=mobile">Vegetables & Fruit Seeds</a></li>
 							<li><a href="index.jsp?type=tv">TVs</a></li>
 							<li><a href="index.jsp?type=laptop">Laptops</a></li>
 							<li><a href="index.jsp?type=camera">Camera</a></li>
@@ -92,7 +92,7 @@
 						class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="userHome.jsp"><span
-					class="glyphicon glyphicon-home">&nbsp;</span>Shopping Center</a>
+					class="glyphicon glyphicon-home">&nbsp;</span>Agriculture Center</a>
 			</div>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -103,7 +103,7 @@
 						data-toggle="dropdown" href="#">Category <span class="caret"></span>
 					</a>
 						<ul class="dropdown-menu">
-							<li><a href="userHome.jsp?type=mobile">Mobiles</a></li>
+							<li><a href="userHome.jsp?type=mobile">Vegetables & Fruit Seeds</a></li>
 							<li><a href="userHome.jsp?type=tv">TV</a></li>
 							<li><a href="userHome.jsp?type=laptop">Laptops</a></li>
 							<li><a href="userHome.jsp?type=camera">Camera</a></li>
